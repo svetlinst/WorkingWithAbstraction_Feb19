@@ -18,7 +18,7 @@ namespace HotelReservation
             ReservationSeason = season;
         }
 
-        public PriceCalculator(decimal pricePerDay, int numberOfDays, Season season, DiscountType discount):base()
+        public PriceCalculator(decimal pricePerDay, int numberOfDays, Season season, DiscountType discount) : this(pricePerDay, numberOfDays,season)
         {
             Discount = discount;
         }
