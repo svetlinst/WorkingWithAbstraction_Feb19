@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhombusOfStarts", "RhombusOfStarts\RhombusOfStarts.csproj", "{5497936F-5973-4D3E-A620-EB3C83319BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInRectangle", "PointInRectangle\PointInRectangle.csproj", "{B48798A8-A4ED-4875-8B0A-D2D1DB755927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5497936F-5973-4D3E-A620-EB3C83319BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5497936F-5973-4D3E-A620-EB3C83319BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5497936F-5973-4D3E-A620-EB3C83319BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5497936F-5973-4D3E-A620-EB3C83319BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48798A8-A4ED-4875-8B0A-D2D1DB755927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48798A8-A4ED-4875-8B0A-D2D1DB755927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48798A8-A4ED-4875-8B0A-D2D1DB755927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48798A8-A4ED-4875-8B0A-D2D1DB755927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A38CDA-1067-48DD-8097-14AA477981C6}
+	EndGlobalSection
+EndGlobal
