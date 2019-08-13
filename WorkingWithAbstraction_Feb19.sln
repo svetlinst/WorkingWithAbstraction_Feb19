@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_CarsSalesman", "P02_CarsSalesman\P02_CarsSalesman.csproj", "{21E4C1D0-7D19-4D53-A7A2-6B7C384B454D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_JediGalaxy", "P03_JediGalaxy\P03_JediGalaxy.csproj", "{D896B45D-C1D6-415F-BA5A-3CD69147E48C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_Hospital", "P04_Hospital\P04_Hospital.csproj", "{47BD1761-497E-4BF5-84DF-A85FA8B947CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{21E4C1D0-7D19-4D53-A7A2-6B7C384B454D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21E4C1D0-7D19-4D53-A7A2-6B7C384B454D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21E4C1D0-7D19-4D53-A7A2-6B7C384B454D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D896B45D-C1D6-415F-BA5A-3CD69147E48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D896B45D-C1D6-415F-BA5A-3CD69147E48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D896B45D-C1D6-415F-BA5A-3CD69147E48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D896B45D-C1D6-415F-BA5A-3CD69147E48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BD1761-497E-4BF5-84DF-A85FA8B947CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BD1761-497E-4BF5-84DF-A85FA8B947CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BD1761-497E-4BF5-84DF-A85FA8B947CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BD1761-497E-4BF5-84DF-A85FA8B947CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
